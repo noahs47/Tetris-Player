@@ -1,1 +1,2 @@
 # Tetris-Player
+This is an AI bot that is capable of playing Tetris infinitely. The code includes a basic clone of the popular game and a bot that plays it. When the bot is given a Tetronimo, it simulates all of the possible positions it could drop the piece in and scores them to find the best possible position. The game speeds up over time just like real Tetris, but with the Ai's sopeed and proficiency, it can essentially play infinitely.
